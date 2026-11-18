@@ -34,9 +34,9 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 
 ```
 
-├── specific-components/       # Screenshots of the
-├── universal-components/      #
-├── README.md                  # Documentation
+├── specific-components/       # Screenshots outlining universal prompt components
+├── universal-components/      # Screenshots outlining business-specific prompt components.
+├── README.md                  # Project documentation
 
 ```
 
