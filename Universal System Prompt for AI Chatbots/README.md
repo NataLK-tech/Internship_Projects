@@ -63,7 +63,7 @@ Universal components retain their structure and logic regardless of the chatbot'
 ### Universal Components
 Universal components define the general operating rules of an AI assistant as a website chatbot and do not depend on the specifics of the business. When creating a system prompt for another business, their structure and content remain unchanged. Only project-specific data needs to be edited: the chatbot's name, the organization's name, and other details.
 
-The content of each component can be found in the [`universal-components/`]([docs/universal-components/](https://github.com/NataLK-tech/Internship_Projects/tree/main/Universal%20System%20Prompt%20for%20AI%20Chatbots/universal-components)) folder.
+The content of each component can be found in the [`universal-components/`](https://github.com/NataLK-tech/Internship_Projects/tree/main/Universal%20System%20Prompt%20for%20AI%20Chatbots/universal-components) folder.
 
 ### Adaptable Components
 Business-specific components were developed for a camping site chatbot and serve as an example of what this part of the prompt may look like. When used in another industry, they need to be redesigned completely: both the set of items and the content will be entirely different. Substantial rework may also be required for another camping site: the structure of the example can be kept, but the content depends on the specifics of each organization, and minor structural changes may be needed depending on the priorities and rules of the business.
