@@ -28,7 +28,7 @@ To address this challenge, the proposed structure:
 
 ## Collaboration
 
-This project originated during work with Mittelstand-Digital Zentrum Tourismus on a chatbot for a tourism business. The production-ready system prompts provided by the center served as a starting point for analyzing existing approaches. The universal structure presented here was developed independently by the author while writing a system prompt for one of the camping sites.
+This project originated during work with [Mittelstand-Digital Zentrum Tourismus](https://www.mittelstand-digital.de/MD/Navigation/DE/Service/EnglischeSeite/englische-seite.html) on a chatbot for a tourism business. The production-ready system prompts provided by the center served as a starting point for analyzing existing approaches. The universal structure presented here was developed independently by the author while writing a system prompt for one of the camping sites.
 
 ## Architecture
 
