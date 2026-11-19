@@ -82,21 +82,28 @@ The content of these components can be found in the [`specific-components/`](htt
 Based on practical experience, I recommend following this sequence to optimize the prompt development process:
 
 1. **Preparation**
-   - Study the universal structure (for beginners).
-   - Review the website content from the user's perspective and compile a list of 100 questions that reflect different interests and behavior scenarios.
-   - Prepare a list of questions for the client (the website owner): what matters for the prompt; key user queries and business specifics; what is missing from the website content, based on the 100 questions.
-2. **First meeting with the client**
-   - Get answers to the prepared questions.
-   - Extend the question list with provocative queries (request for a discount, complaint, question about competitors, attempt to make the chatbot step out of its role, etc.).
-3. **Development and internal testing**
-   - Write the initial version of the prompt.
-   - Test it with the full list of questions by the development team.
-4. **Client testing**
-   - The client tests the prompt.
-   - The prompt is revised based on the client's feedback.
-5. **Delivery**
-   - Hand over the final version of the prompt to the client.
-   - Integrate the chatbot into the website.
+   🗸 Study the universal structure (for beginners).
+   🗸 Review the website content from the user's perspective and compile a list of 100 questions that reflect different interests and behavior scenarios.
+   🗸 Prepare a list of questions for the client (the website owner):
+         - what matters for the prompt;
+         - key user queries and business specifics;
+         - what is missing from the website content, based on the 100 questions.
+3. **First meeting with the client**
+   🗸 Get answers to the prepared questions.
+   🗸 Extend the question list with provocative queries:
+         - request for a discount,
+         - complaint,
+         - question about competitors,
+         - attempt to make the chatbot step out of its role, etc.
+5. **Development and internal testing**
+   🗸 Write the initial version of the prompt.
+   🗸 Test it with the full list of questions by the development team.
+6. **Client testing**
+   🗸 The client tests the prompt.
+   🗸 The prompt is revised based on the client's feedback.
+7. **Delivery**
+   🗸 Hand over the final version of the prompt to the client.
+   🗸 Integrate the chatbot into the website.
 
 
 ## Acknowledgements
