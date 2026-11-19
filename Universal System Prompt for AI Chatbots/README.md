@@ -35,9 +35,9 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 
 ```
 
-├── specific-components/    # Screenshots outlining universal prompt components
-├── universal-components/   # Screenshots outlining business-specific prompt components
-├── README.md               # Project documentation
+├── specific-components/   # Screenshots outlining universal prompt components
+├── universal-components/  # Screenshots outlining business-specific prompt components
+├── README.md              # Project documentation
 
 ```
 
@@ -45,15 +45,24 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 ## Prompt Structure
 
 ```
-├── 1 🟩 Identity and Role                                    # Definition of the chatbot's identity, purpose, and responsibilities
-├── 2 🟩 Knowledge and Information                            # Definition of available information sources and rules for their use
-├── 3 🟩 Intent Understanding                                 # Identification of the user's query
-├── 4 🟩 Query Processing Logic                               # Algorithms for processing queries
-├── 5 🟩 Information Selection                                # Criteria for selecting information for responses
-├── 6 🟥 Key Query Topics                                     # Special handling of high-priority or business-critical queries
-├── 7 🟥 Constraints and Special Cases                        # Restrictions, exceptions, and special-case behavior
-├── 8 🟩 Response Generation                                  # Standards for response structure, style, and formatting
-└── 9 🟩 Hallucination Prevention and Instruction Compliance  # Prevention of hallucinations and enforcement of prompt instructions
+├── 1 🟩 Identity and Role
+          # Definition of the chatbot's identity, purpose, and responsibilities
+├── 2 🟩 Knowledge and Information
+          # Definition of available information sources and rules for their use
+├── 3 🟩 Intent Understanding
+          # Identification of the user's query
+├── 4 🟩 Query Processing Logic
+          # Algorithms for processing queries
+├── 5 🟩 Information Selection
+          # Criteria for selecting information for responses
+├── 6 🟥 Key Query Topics
+          # Special handling of high-priority or business-critical queries
+├── 7 🟥 Constraints and Special Cases
+          # Restrictions, exceptions, and special-case behavior
+├── 8 🟩 Response Generation
+          # Standards for response structure, style, and formatting
+└── 9 🟩 Hallucination Prevention and Instruction Compliance
+          # Prevention of hallucinations and enforcement of prompt instructions
 ```
 
 
