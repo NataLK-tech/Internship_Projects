@@ -1,4 +1,4 @@
-# Universal System Prompt for AI Chatbots
+# Universal Structure of System Prompts for AI Chatbots
 
 **Natalia Kazakevych**, November 2026
 
