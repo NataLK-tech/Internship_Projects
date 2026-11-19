@@ -42,7 +42,7 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 
 ## System Prompt Structure Infographic - Visual Overview
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/c50343bf-69f2-4e84-b83c-725f24420036" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c50343bf-69f2-4e84-b83c-725f24420036" />
 
 
 ## Overview of the Nine Sections
