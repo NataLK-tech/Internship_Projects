@@ -34,13 +34,9 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 ## Architecture
 
 ```
-
 ├── specific-components/   # Screenshots outlining universal prompt components
 ├── universal-components/  # Screenshots outlining business-specific prompt components
 ├── README.md              # Project documentation
-├── system_prompt_structure_infographic.png  # Visual Overview of the Universal System Prompt Structure
-
-
 ```
 
 
