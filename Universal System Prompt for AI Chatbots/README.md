@@ -108,8 +108,7 @@ Based on practical experience, I recommend following this sequence to optimize t
 
 ## Acknowledgements
 
-I would like to thank [Mittelstand-Digital Zentrum Tourismus](https://www.mittelstand-digital.de/MD/Navigation/DE/Service/EnglischeSeite/englische-seite.html) and , in particular, [Rozaliia Tarnovetckaia](https://www.linkedin.com/in/rozaliia-tarnovetckaia-756531101/) for the opportunity to work on this project.
-
+I would like to thank [Mittelstand-Digital Zentrum Tourismus](https://www.mittelstand-digital.de/MD/Navigation/DE/Service/EnglischeSeite/englische-seite.html) and , in particular, [Rozaliia Tarnovetckaia](https://www.linkedin.com/in/rozaliia-tarnovetckaia-756531101/) for the internship opportunity, for their support, and for the practical experience and materials that gave rise to this work.
 
 ## Author
 
