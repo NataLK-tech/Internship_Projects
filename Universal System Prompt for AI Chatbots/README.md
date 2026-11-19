@@ -38,12 +38,18 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 ├── specific-components/   # Screenshots outlining universal prompt components
 ├── universal-components/  # Screenshots outlining business-specific prompt components
 ├── README.md              # Project documentation
+├── system_prompt_structure_infographic.png  # Visual Overview of the Universal System Prompt Structure
+
 
 ```
 
 
-## Prompt Structure
+## System Prompt Structure Infographic - Visual Overview
 
+<img width="1230" height="1238" alt="image" src="https://github.com/user-attachments/assets/c50343bf-69f2-4e84-b83c-725f24420036" />
+
+
+## Overview of the Nine Sections
 ```
 ├── 1 🟩 Identity and Role
           # Definition of the chatbot's identity, purpose, and responsibilities
@@ -76,7 +82,7 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 
 ## Core Components
 
-All system prompt components fall into two groups: universal (marked in green 🟩) and business-specific (marked in red 🟥).
+Also, all system prompt components fall into two groups: universal (marked in green 🟩) and business-specific (marked in red 🟥).
 
 Universal components retain their structure and logic regardless of the chatbot's domain. Business-specific components require substantial adaptation to the specifics of each organization, and their content can differ even within the same business.
 
