@@ -34,15 +34,15 @@ This project originated during work with [Mittelstand-Digital Zentrum Tourismus]
 ## Architecture
 
 ```
-├── specific-components/   # Screenshots outlining universal prompt components
-├── universal-components/  # Screenshots outlining business-specific prompt components
-├── README.md              # Project documentation
+├── specific-components/  # Screenshots outlining universal prompt components
+├── universal-components/ # Screenshots outlining business-specific prompt components
+├── README.md             # Project documentation
 ```
 
 
 ## System Prompt Structure Infographic - Visual Overview
 
-<img width="1100" height="1200" alt="image" src="https://github.com/user-attachments/assets/c50343bf-69f2-4e84-b83c-725f24420036" />
+<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/c50343bf-69f2-4e84-b83c-725f24420036" />
 
 
 ## Overview of the Nine Sections
